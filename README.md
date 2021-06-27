@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZgnWasHere
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Pygame/Python projects
 - 📫 How to reach me Zgn#5681
 
 <!---
